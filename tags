@@ -1,0 +1,277 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+BIN	Makefile	/^BIN=miniftpd$/;"	m
+BIN	tmp/Makefile	/^BIN=ipaddr_test$/;"	m
+CC	Makefile	/^CC=gcc$/;"	m
+CC	tmp/Makefile	/^CC=gcc$/;"	m
+CFLAGS	Makefile	/^CFLAGS=-Wall -g$/;"	m
+CFLAGS	tmp/Makefile	/^CFLAGS=-Wall -g$/;"	m
+ERR_EXIT	common.h	30;"	d
+FTP_ABOROK	ftpcodes.h	32;"	d
+FTP_ABOR_NOCONN	ftpcodes.h	30;"	d
+FTP_ALLOOK	ftpcodes.h	19;"	d
+FTP_AUTHOK	ftpcodes.h	36;"	d
+FTP_BADAUTH	ftpcodes.h	67;"	d
+FTP_BADCMD	ftpcodes.h	58;"	d
+FTP_BADMODE	ftpcodes.h	66;"	d
+FTP_BADOPTS	ftpcodes.h	59;"	d
+FTP_BADPBSZ	ftpcodes.h	63;"	d
+FTP_BADPROT	ftpcodes.h	64;"	d
+FTP_BADSENDCONN	ftpcodes.h	54;"	d
+FTP_BADSENDFILE	ftpcodes.h	56;"	d
+FTP_BADSENDNET	ftpcodes.h	55;"	d
+FTP_BADSTRU	ftpcodes.h	65;"	d
+FTP_CHMODOK	ftpcodes.h	12;"	d
+FTP_COMMANDNOTIMPL	ftpcodes.h	60;"	d
+FTP_CWDOK	ftpcodes.h	37;"	d
+FTP_DATACONN	ftpcodes.h	5;"	d
+FTP_DATATLSBAD	ftpcodes.h	71;"	d
+FTP_DATA_TIMEOUT	ftpcodes.h	49;"	d
+FTP_DELEOK	ftpcodes.h	39;"	d
+FTP_EPRTOK	ftpcodes.h	10;"	d
+FTP_EPSVALLOK	ftpcodes.h	13;"	d
+FTP_EPSVBAD	ftpcodes.h	70;"	d
+FTP_EPSVOK	ftpcodes.h	34;"	d
+FTP_FEAT	ftpcodes.h	20;"	d
+FTP_FILEFAIL	ftpcodes.h	74;"	d
+FTP_GIVEPWORD	ftpcodes.h	44;"	d
+FTP_GOODBYE	ftpcodes.h	29;"	d
+FTP_GREET	ftpcodes.h	28;"	d
+FTP_HELP	ftpcodes.h	26;"	d
+FTP_IDLE_TIMEOUT	ftpcodes.h	48;"	d
+FTP_IP_DENY	ftpcodes.h	52;"	d
+FTP_IP_LIMIT	ftpcodes.h	51;"	d
+FTP_LOGINERR	ftpcodes.h	72;"	d
+FTP_LOGINOK	ftpcodes.h	35;"	d
+FTP_MDTMOK	ftpcodes.h	23;"	d
+FTP_MKDIROK	ftpcodes.h	42;"	d
+FTP_MODEOK	ftpcodes.h	15;"	d
+FTP_NEEDENCRYPT	ftpcodes.h	69;"	d
+FTP_NEEDRNFR	ftpcodes.h	62;"	d
+FTP_NEEDUSER	ftpcodes.h	61;"	d
+FTP_NOHANDLEPROT	ftpcodes.h	73;"	d
+FTP_NOOPOK	ftpcodes.h	7;"	d
+FTP_NOPERM	ftpcodes.h	75;"	d
+FTP_NOSUCHPROT	ftpcodes.h	68;"	d
+FTP_OPTSOK	ftpcodes.h	18;"	d
+FTP_PASVOK	ftpcodes.h	33;"	d
+FTP_PBSZOK	ftpcodes.h	16;"	d
+FTP_PORTOK	ftpcodes.h	9;"	d
+FTP_PROTOK	ftpcodes.h	17;"	d
+FTP_PWDOK	ftpcodes.h	41;"	d
+FTP_RENAMEOK	ftpcodes.h	40;"	d
+FTP_RESTOK	ftpcodes.h	45;"	d
+FTP_RMDIROK	ftpcodes.h	38;"	d
+FTP_RNFROK	ftpcodes.h	46;"	d
+FTP_SITEHELP	ftpcodes.h	25;"	d
+FTP_SIZEOK	ftpcodes.h	22;"	d
+FTP_STATFILE_OK	ftpcodes.h	24;"	d
+FTP_STATOK	ftpcodes.h	21;"	d
+FTP_STRUOK	ftpcodes.h	14;"	d
+FTP_SYSTOK	ftpcodes.h	27;"	d
+FTP_TLS_FAIL	ftpcodes.h	53;"	d
+FTP_TOO_MANY_USERS	ftpcodes.h	50;"	d
+FTP_TRANSFEROK	ftpcodes.h	31;"	d
+FTP_TYPEOK	ftpcodes.h	8;"	d
+FTP_UMASKOK	ftpcodes.h	11;"	d
+FTP_UPLOADFAIL	ftpcodes.h	76;"	d
+LIBS	Makefile	/^LIBS=-lcrypt$/;"	m
+MAX_ARG	common.h	41;"	d
+MAX_COMMAND	common.h	40;"	d
+MAX_COMMAND_LINE	common.h	39;"	d
+MINIFTP_CONF	common.h	42;"	d
+OBJECTS	Makefile	/^OBJECTS=main.o session.o ftpproto.o privparent.o sysutil.o str.o tunable.o parseconf.o privsock.o$/;"	m
+PRIV_SOCK_GET_DATA_SOCK	privsock.h	11;"	d
+PRIV_SOCK_PASV_ACCEPT	privsock.h	14;"	d
+PRIV_SOCK_PASV_ACTIVE	privsock.h	12;"	d
+PRIV_SOCK_PASV_LISTEN	privsock.h	13;"	d
+PRIV_SOCK_RESULT_BAD	privsock.h	18;"	d
+PRIV_SOCK_RESULT_OK	privsock.h	17;"	d
+_COMMON_H_	common.h	2;"	d
+_FTP_CODES_H_	ftpcodes.h	2;"	d
+_FTP_PROTO_H_	ftpproto.h	2;"	d
+_PARSE_CONF_H_	parseconf.h	2;"	d
+_PRIV_PARENT_H_	privparent.h	2;"	d
+_PRIV_SOCK_H_	privsock.h	2;"	d
+_SESSION_H_	session.h	2;"	d
+_STR_H_	str.h	2;"	d
+_SYS_UTIL_H_	sysutil.h	2;"	d
+_TEST_H_	tmp/test.h	2;"	d
+_TUNABLE_H_	tunable.h	2;"	d
+accept_timeout	sysutil.c	/^int accept_timeout(int fd, struct sockaddr_in *addr, unsigned int wait_seconds)$/;"	f
+activate_nonblock	sysutil.c	/^void activate_nonblock(int fd)$/;"	f
+age	tmp/str_assign_test.c	/^	int age;$/;"	m	struct:test	file:
+arg	session.h	/^	char arg[MAX_ARG];$/;"	m	struct:session
+array	tmp/initialize_test.c	/^int array[1] = {g_val};$/;"	v
+assign	tmp/str_assign_test.c	/^void assign(struct test *t)$/;"	f
+assign2	tmp/str_assign_test.c	/^void assign2(struct test *t)$/;"	f
+begin_session	session.c	/^void begin_session(session_t *sess)$/;"	f
+bw_download_rate_max	session.h	/^	unsigned int bw_download_rate_max;$/;"	m	struct:session
+bw_transfer_start_sec	session.h	/^	long bw_transfer_start_sec;$/;"	m	struct:session
+bw_transfer_start_usec	session.h	/^	long bw_transfer_start_usec;$/;"	m	struct:session
+bw_upload_rate_max	session.h	/^	unsigned int bw_upload_rate_max;$/;"	m	struct:session
+capset	privparent.c	/^int capset(cap_user_header_t hdrp, const cap_user_data_t datap)$/;"	f
+child_fd	session.h	/^	int child_fd;$/;"	m	struct:session
+cmd	ftpproto.c	/^	const char *cmd;$/;"	m	struct:ftpcmd	file:
+cmd	session.h	/^	char cmd[MAX_COMMAND];$/;"	m	struct:session
+cmd_handler	ftpproto.c	/^	void (*cmd_handler)(session_t *sess);$/;"	m	struct:ftpcmd	file:
+cmdline	session.h	/^	char cmdline[MAX_COMMAND_LINE];$/;"	m	struct:session
+connect_timeout	sysutil.c	/^int connect_timeout(int fd, struct sockaddr_in *addr, unsigned int wait_seconds)$/;"	f
+ctrl_cmds	ftpproto.c	/^static ftpcmd_t ctrl_cmds[] = {$/;"	v	file:
+ctrl_fd	session.h	/^	int ctrl_fd;$/;"	m	struct:session
+data_fd	session.h	/^	int data_fd;$/;"	m	struct:session
+data_process	session.h	/^	int data_process;	\/\/ 是否处于数据传输状态$/;"	m	struct:session
+deactivate_nonblock	sysutil.c	/^void deactivate_nonblock(int fd)$/;"	f
+do_abor	ftpproto.c	/^static void do_abor(session_t *sess)$/;"	f	file:
+do_appe	ftpproto.c	/^static void do_appe(session_t *sess)$/;"	f	file:
+do_cdup	ftpproto.c	/^static void do_cdup(session_t *sess)$/;"	f	file:
+do_cwd	ftpproto.c	/^static void do_cwd(session_t *sess)$/;"	f	file:
+do_dele	ftpproto.c	/^static void do_dele(session_t *sess)$/;"	f	file:
+do_feat	ftpproto.c	/^static void do_feat(session_t *sess)$/;"	f	file:
+do_help	ftpproto.c	/^static void do_help(session_t *sess)$/;"	f	file:
+do_list	ftpproto.c	/^static void do_list(session_t *sess)$/;"	f	file:
+do_mkd	ftpproto.c	/^static void do_mkd(session_t *sess)$/;"	f	file:
+do_mode	ftpproto.c	/^static void do_mode(session_t *sess)$/;"	f	file:
+do_nlst	ftpproto.c	/^static void do_nlst(session_t *sess)$/;"	f	file:
+do_noop	ftpproto.c	/^static void do_noop(session_t *sess)$/;"	f	file:
+do_pass	ftpproto.c	/^static void do_pass(session_t *sess)$/;"	f	file:
+do_pasv	ftpproto.c	/^static void do_pasv(session_t *sess)$/;"	f	file:
+do_port	ftpproto.c	/^static void do_port(session_t *sess)$/;"	f	file:
+do_pwd	ftpproto.c	/^static void do_pwd(session_t *sess)$/;"	f	file:
+do_quit	ftpproto.c	/^static void do_quit(session_t *sess)$/;"	f	file:
+do_rest	ftpproto.c	/^static void do_rest(session_t *sess)$/;"	f	file:
+do_retr	ftpproto.c	/^static void do_retr(session_t *sess)$/;"	f	file:
+do_rmd	ftpproto.c	/^static void do_rmd(session_t *sess)$/;"	f	file:
+do_rnfr	ftpproto.c	/^static void do_rnfr(session_t *sess)$/;"	f	file:
+do_rnto	ftpproto.c	/^static void do_rnto(session_t *sess)$/;"	f	file:
+do_site	ftpproto.c	/^static void do_site(session_t *sess)$/;"	f	file:
+do_size	ftpproto.c	/^static void do_size(session_t *sess)$/;"	f	file:
+do_stat	ftpproto.c	/^static void do_stat(session_t *sess)$/;"	f	file:
+do_stor	ftpproto.c	/^static void do_stor(session_t *sess)$/;"	f	file:
+do_stru	ftpproto.c	/^static void do_stru(session_t *sess)$/;"	f	file:
+do_syst	ftpproto.c	/^static void do_syst(session_t *sess)$/;"	f	file:
+do_type	ftpproto.c	/^static void do_type(session_t *sess) $/;"	f	file:
+do_user	ftpproto.c	/^static void do_user(session_t *sess)$/;"	f	file:
+ftp_lreply	ftpproto.c	/^void ftp_lreply(session_t *sess, int status, const char *text)$/;"	f
+ftp_reply	ftpproto.c	/^void ftp_reply(session_t *sess, int status, const char *text)$/;"	f
+ftpcmd	ftpproto.c	/^typedef struct ftpcmd$/;"	s	file:
+ftpcmd_t	ftpproto.c	/^} ftpcmd_t;$/;"	t	typeref:struct:ftpcmd	file:
+g_val	tmp/initialize_test.c	/^const int g_val = 1;$/;"	v
+g_val	tmp/link_test.c	/^int g_val = 3;$/;"	v
+g_val2	tmp/test.c	/^int g_val2 = 5;$/;"	v
+get_pasv_fd	ftpproto.c	/^int get_pasv_fd(session_t *sess)$/;"	f
+get_port_fd	ftpproto.c	/^int get_port_fd(session_t *sess)$/;"	f
+get_time_sec	sysutil.c	/^long get_time_sec()$/;"	f
+get_time_usec	sysutil.c	/^long get_time_usec()$/;"	f
+get_transfer_fd	ftpproto.c	/^int get_transfer_fd(session_t *sess)$/;"	f
+getlocalip	sysutil.c	/^int getlocalip(char *ip)$/;"	f
+handle_alarm_timeout	ftpproto.c	/^void handle_alarm_timeout(int signum)$/;"	f
+handle_child	ftpproto.c	/^void handle_child(session_t *sess)$/;"	f
+handle_parent	privparent.c	/^void handle_parent(session_t *sess)$/;"	f
+handle_sigalarm	ftpproto.c	/^void handle_sigalarm(int signum)$/;"	f
+handle_sigpipe	ftpproto.c	/^void handle_sigpipe(int signum)$/;"	f
+is_ascii	session.h	/^	int is_ascii;$/;"	m	struct:session
+limit_rate	ftpproto.c	/^void limit_rate(session_t *sess, int bytes_transfered, int is_upload)$/;"	f
+list_common	ftpproto.c	/^int list_common(session_t *sess, int detail)$/;"	f
+lock_file_internal	sysutil.c	/^static int lock_file_internal(int fd, int lock_type)$/;"	f	file:
+lock_file_read	sysutil.c	/^int lock_file_read(int fd)$/;"	f
+lock_file_write	sysutil.c	/^int lock_file_write(int fd)$/;"	f
+main	main.c	/^int main()$/;"	f
+main	tmp/initialize_test.c	/^int main()$/;"	f
+main	tmp/ipaddr_test.c	/^int main()$/;"	f
+main	tmp/link_test.c	/^int main()$/;"	f
+main	tmp/nullptr_test.c	/^int main()$/;"	f
+main	tmp/nullptr_test2.c	/^int main()$/;"	f
+main	tmp/scanf_test.c	/^int main()$/;"	f
+main	tmp/sscanf_test.c	/^int main()$/;"	f
+main	tmp/str_assign_test.c	/^int main()$/;"	f
+main	tmp/strcpy_test.c	/^int main()$/;"	f
+main	tmp/strlen_test.c	/^int main()$/;"	f
+minimize_privilege	privparent.c	/^void minimize_privilege()$/;"	f
+name	tmp/str_assign_test.c	/^	char *name;$/;"	m	struct:test	file:
+nano_sleep	sysutil.c	/^void nano_sleep(double seconds)$/;"	f
+p_sess	ftpproto.c	/^session_t *p_sess;$/;"	v
+p_setting_name	parseconf.c	/^	const char *p_setting_name;$/;"	m	struct:parseconf_bool_setting	file:
+p_setting_name	parseconf.c	/^	const char *p_setting_name;$/;"	m	struct:parseconf_str_setting	file:
+p_setting_name	parseconf.c	/^	const char *p_setting_name;$/;"	m	struct:parseconf_uint_setting	file:
+p_variable	parseconf.c	/^	const char **p_variable;    \/\/!!!$/;"	m	struct:parseconf_str_setting	file:
+p_variable	parseconf.c	/^	int *p_variable;$/;"	m	struct:parseconf_bool_setting	file:
+p_variable	parseconf.c	/^	unsigned int *p_variable;$/;"	m	struct:parseconf_uint_setting	file:
+parent_fd	session.h	/^	int parent_fd;$/;"	m	struct:session
+parseconf_bool_array	parseconf.c	/^parseconf_bool_array[] = $/;"	v	typeref:struct:parseconf_bool_setting	file:
+parseconf_bool_setting	parseconf.c	/^static struct parseconf_bool_setting$/;"	s	file:
+parseconf_load_file	parseconf.c	/^void parseconf_load_file(const char *path)$/;"	f
+parseconf_load_setting	parseconf.c	/^void parseconf_load_setting(const char *setting)$/;"	f
+parseconf_str_array	parseconf.c	/^parseconf_str_array[] = $/;"	v	typeref:struct:parseconf_str_setting	file:
+parseconf_str_setting	parseconf.c	/^static struct parseconf_str_setting$/;"	s	file:
+parseconf_uint_array	parseconf.c	/^parseconf_uint_array[] = $/;"	v	typeref:struct:parseconf_uint_setting	file:
+parseconf_uint_setting	parseconf.c	/^static struct parseconf_uint_setting$/;"	s	file:
+pasv_active	ftpproto.c	/^int pasv_active(session_t *sess)$/;"	f
+pasv_listen_fd	session.h	/^	int pasv_listen_fd;$/;"	m	struct:session
+port_active	ftpproto.c	/^int port_active(session_t *sess)$/;"	f
+port_addr	session.h	/^	struct sockaddr_in *port_addr;$/;"	m	struct:session	typeref:struct:session::sockaddr_in
+print	tmp/test.c	/^void print(int val)$/;"	f
+priv_sock_close	privsock.c	/^void priv_sock_close(session_t *sess)$/;"	f
+priv_sock_get_cmd	privsock.c	/^char priv_sock_get_cmd(int fd)$/;"	f
+priv_sock_get_int	privsock.c	/^int priv_sock_get_int(int fd)$/;"	f
+priv_sock_get_result	privsock.c	/^char priv_sock_get_result(int fd)$/;"	f
+priv_sock_init	privsock.c	/^void priv_sock_init(session_t *sess)$/;"	f
+priv_sock_recv_buf	privsock.c	/^void priv_sock_recv_buf(int fd, char *buf, unsigned int len)$/;"	f
+priv_sock_recv_fd	privsock.c	/^int priv_sock_recv_fd(int sock_fd)$/;"	f
+priv_sock_send_buf	privsock.c	/^void priv_sock_send_buf(int fd, const char *buf, unsigned int len)$/;"	f
+priv_sock_send_cmd	privsock.c	/^void priv_sock_send_cmd(int fd, char cmd)$/;"	f
+priv_sock_send_fd	privsock.c	/^void priv_sock_send_fd(int sock_fd, int fd)$/;"	f
+priv_sock_send_int	privsock.c	/^void priv_sock_send_int(int fd, int the_int)$/;"	f
+priv_sock_send_result	privsock.c	/^void priv_sock_send_result(int fd, char res)$/;"	f
+priv_sock_set_child_context	privsock.c	/^void priv_sock_set_child_context(session_t *sess)$/;"	f
+priv_sock_set_parent_context	privsock.c	/^void priv_sock_set_parent_context(session_t *sess)$/;"	f
+privop_pasv_accept	privparent.c	/^static void privop_pasv_accept(session_t *sess)$/;"	f	file:
+privop_pasv_active	privparent.c	/^static void privop_pasv_active(session_t *sess)$/;"	f	file:
+privop_pasv_get_data_sock	privparent.c	/^static void privop_pasv_get_data_sock(session_t *sess)$/;"	f	file:
+privop_pasv_listen	privparent.c	/^static void privop_pasv_listen(session_t *sess)$/;"	f	file:
+read_timeout	sysutil.c	/^int read_timeout(int fd, unsigned int wait_seconds)$/;"	f
+readline	sysutil.c	/^ssize_t readline(int sockfd, void *buf, size_t maxline)$/;"	f
+readn	sysutil.c	/^ssize_t readn(int fd, void *buf, size_t count)$/;"	f
+recv_fd	sysutil.c	/^int recv_fd(const int sock_fd)$/;"	f
+recv_peek	sysutil.c	/^ssize_t recv_peek(int sockfd, void *buf, size_t len)$/;"	f
+restart_pos	session.h	/^	long long restart_pos;$/;"	m	struct:session
+rnfr_name	session.h	/^	char *rnfr_name;$/;"	m	struct:session
+s_curr_time	sysutil.c	/^static struct timeval s_curr_time;$/;"	v	typeref:struct:timeval	file:
+send_fd	sysutil.c	/^void send_fd(int sock_fd, int fd)$/;"	f
+session	session.h	/^typedef struct session$/;"	s
+session_t	session.h	/^} session_t;$/;"	t	typeref:struct:session
+start_cmdio_alarm	ftpproto.c	/^void start_cmdio_alarm()$/;"	f
+start_data_alarm	ftpproto.c	/^void start_data_alarm()$/;"	f
+statbuf_get_date	sysutil.c	/^const char *statbuf_get_date(struct stat *sbuf)$/;"	f
+statbuf_get_perms	sysutil.c	/^const char *statbuf_get_perms(struct stat *sbuf)$/;"	f
+str_all_space	str.c	/^int str_all_space(const char *str)$/;"	f
+str_octal_to_uint	str.c	/^unsigned int str_octal_to_uint(const char *str)$/;"	f
+str_split	str.c	/^void str_split(const char *str, char *left, char *right, char c)$/;"	f
+str_to_longlong	str.c	/^long long str_to_longlong(const char *str)$/;"	f
+str_trim_crlf	str.c	/^void str_trim_crlf(char *str)$/;"	f
+str_upper	str.c	/^void str_upper(char *str)$/;"	f
+tcp_client	sysutil.c	/^int tcp_client(unsigned int port)$/;"	f
+tcp_server	sysutil.c	/^int tcp_server(const char *host, unsigned short port)$/;"	f
+test	tmp/str_assign_test.c	/^struct test$/;"	s	file:
+tunable_accept_timeout	tunable.c	/^unsigned int tunable_accept_timeout = 60;$/;"	v
+tunable_connect_timeout	tunable.c	/^unsigned int tunable_connect_timeout = 60;$/;"	v
+tunable_data_connection_timeout	tunable.c	/^unsigned int tunable_data_connection_timeout = 300;$/;"	v
+tunable_download_max_rate	tunable.c	/^unsigned int tunable_download_max_rate = 0;$/;"	v
+tunable_idle_session_timeout	tunable.c	/^unsigned int tunable_idle_session_timeout = 300;$/;"	v
+tunable_listen_address	tunable.c	/^const char *tunable_listen_address;$/;"	v
+tunable_listen_port	tunable.c	/^unsigned int tunable_listen_port = 21;$/;"	v
+tunable_local_umask	tunable.c	/^unsigned int tunable_local_umask = 077;$/;"	v
+tunable_max_clients	tunable.c	/^unsigned int tunable_max_clients = 2000;$/;"	v
+tunable_max_per_ip	tunable.c	/^unsigned int tunable_max_per_ip = 50;$/;"	v
+tunable_pasv_enable	tunable.c	/^int tunable_pasv_enable = 1;$/;"	v
+tunable_port_enable	tunable.c	/^int tunable_port_enable = 1;$/;"	v
+tunable_upload_max_rate	tunable.c	/^unsigned int tunable_upload_max_rate = 0;$/;"	v
+uid	session.h	/^	uid_t uid;$/;"	m	struct:session
+unlcok_file	sysutil.c	/^int unlcok_file(int fd)$/;"	f
+upload_common	ftpproto.c	/^void upload_common(session_t *sess, int is_append)$/;"	f
+write_timeout	sysutil.c	/^int write_timeout(int fd, unsigned int wait_seconds)$/;"	f
+writen	sysutil.c	/^ssize_t writen(int fd, const void *buf, size_t count)$/;"	f
